@@ -1,9 +1,3 @@
-Only thingsI currently have on this build is the colors 
-changed the background color from the default to #0e0e0e.
-
-the selection color from the default blue to #bbbbbb
-and the text color when selected to #000000
-
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
